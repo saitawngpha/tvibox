@@ -7,11 +7,11 @@ iOS [here](https://saitawngpha.github.io/tvibox/files/TV_iBox.ipa).
 Android [here](https://saitawngpha.github.io/tvibox/files/tvibox.apk).
 
 ## DemoScreenShort
-![demo](https://github.com/saitawngpha/tvibox/blob/master/img/0.jpg)
-![demo](https://github.com/saitawngpha/tvibox/blob/master/img/1.jpg)
-![demo](https://github.com/saitawngpha/tvibox/blob/master/img/2.jpg)
-![demo](https://github.com/saitawngpha/tvibox/blob/master/img/3.jpg)
-![demo](https://github.com/saitawngpha/tvibox/blob/master/img/4.jpg)
+|                          |                          |
+:-------------------------:|:-------------------------:
+![](https://github.com/saitawngpha/tvibox/blob/master/img/0.jpg)  | ![](https://github.com/saitawngpha/tvibox/blob/master/img/1.jpg)
+![demo](https://github.com/saitawngpha/tvibox/blob/master/img/2.jpg) | ![demo](https://github.com/saitawngpha/tvibox/blob/master/img/3.jpg)
+![demo](https://github.com/saitawngpha/tvibox/blob/master/img/4.jpg) |
 
 ## How to install on iOS
 ![video](https://youtu.be/2evqNMaPsDQ)
