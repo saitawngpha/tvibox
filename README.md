@@ -14,7 +14,7 @@ Android [here](https://saitawngpha.github.io/tvibox/files/tvibox.apk).
 ![demo](https://github.com/saitawngpha/tvibox/blob/master/img/4.jpg) |
 
 ## How to install on iOS
-![video](https://youtu.be/2evqNMaPsDQ)
+[![demo]](https://www.youtube.com/embed/2evqNMaPsDQ)
 
 # License 
 Copyright 2018 @ SaiTawngPha
